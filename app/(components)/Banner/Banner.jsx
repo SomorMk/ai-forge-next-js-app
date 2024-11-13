@@ -1,5 +1,5 @@
 import React from 'react'
-import Container from '../SubComponents/container'
+import Container from '../SubComponents/Container';
 import Flex from '../SubComponents/Flex'
 import Link from 'next/link'
 import Image from 'next/image';
