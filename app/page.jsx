@@ -2,6 +2,7 @@ import Banner from "./(components)/Banner/Banner";
 import Logos from "./(components)/Logos/Logos";
 import Navbar from "./(components)/Navbar/Navbar";
 import Service1 from "./(components)/Service/Service1";
+import Service2 from "./(components)/Service/Service2";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Banner />
       <Logos />
       <Service1 />
+      <Service2 />
 
 
 

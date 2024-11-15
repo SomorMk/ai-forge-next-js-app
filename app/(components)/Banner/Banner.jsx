@@ -20,12 +20,12 @@ export default function Banner() {
                                 <span className='ml-5 text-white text-xs font-bold flex gap-x-2 items-center'>About the Hybrid Program <FaArrowRight className='text-white' /></span>
                             </Flex>
                         </div>
-                        <h1 className='text-white text-[58px] font-semibold leading-[170%]'>Forging AI Leaders Through <br /> Challenges and Elite Connections</h1>
+                        <h1 className='text-white text-[58px] font-semibold leading-[150%]'>Forging <span className='text-[64px] text-orange-500 italic animate-pulse'>Ai</span> Leaders Through <br /> Challenges and Elite Connections</h1>
                     </div>
 
                     <div className='w-3/12'>
                         <h3 className='text-white text-xl font-medium'>Where Ambition Meets Opportunity to Shape the Future of AI</h3>
-                        <Link href={'/'} className='py-3 px-5 bg-white rounded-xl text-black font-medium inline-block gap-x-2 mt-10 align-middle'>Apply Now <FaArrowTrendUp className='float-right ml-2 align-middle text-xl' /></Link>
+                        <Link href={'/'} className='py-3 px-5 bg-white rounded-xl text-black font-medium inline-block gap-x-2 mt-10 align-middle group hover:bg-orange-500 hover:text-white duration-500'>Apply Now <FaArrowTrendUp className='float-right ml-2 align-middle text-xl group-hover:animate-pulse' /></Link>
                     </div>
 
                 </Flex>
@@ -76,7 +76,7 @@ export default function Banner() {
                         <Image src={'/class2.png'} alt='Class Image' width={500} height={1000} className='h-full object-cover rounded-2xl' />
 
                         <div className='absolute top-0 left-0 w-full h-full flex items-end justify-end p-10'>
-                            <Link href={'/'} className='py-3 px-5 bg-white rounded-xl text-black font-medium inline-block gap-x-2 mt-10 align-middle'>Find Out More <FaArrowTrendUp className='float-right ml-2 align-middle text-xl' /></Link>
+                            <Link href={'/'} className='py-3 px-5 bg-white rounded-xl text-black font-medium inline-block gap-x-2 mt-10 align-middle group hover:bg-orange-500 hover:text-white duration-500'>Find Out More <FaArrowTrendUp className='float-right ml-2 align-middle text-xl group-hover:animate-pulse' /></Link>
                         </div>
                     </div>
 

@@ -6,7 +6,7 @@ import Image from 'next/image'
 
 export default function Logos() {
   return (
-    <section className='pt-10 pb-20'>
+    <section className='py-10'>
         <Container>
             <Flex className={'justify-center'}>
                 <SectionHeading title={'More Than $100,000 Startup Credits'} />

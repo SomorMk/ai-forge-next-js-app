@@ -29,7 +29,7 @@ export default function Navbar() {
           <div>
             <ul className='flex gap-x-10'>
               <li><Link href={'/'} className='text-white font-base font-semibold'>Login</Link></li>
-              <li><Link href={'/'} className='text-black font-base font-semibold py-3 px-5 bg-white rounded-xl border border-transparent hover:border-white hover:bg-black hover:text-white duration-300'>Signup</Link></li>
+              <li><Link href={'/'} className='text-black font-base font-semibold py-3 px-5 bg-white rounded-lg border border-transparent hover:px-6 hover:bg-orange-500 hover:text-white duration-500'>Signup</Link></li>
             </ul>
           </div>
 
