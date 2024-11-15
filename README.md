@@ -1,4 +1,4 @@
-# Furniture Next App - Somor Mk
+# Ai Forge Next App - Somor Mk
 
 ### MERN Stack Developer | Frontend Developer
 
