@@ -1,3 +1,4 @@
+import Alumni from "./(components)/Alumni/Alumni";
 import Banner from "./(components)/Banner/Banner";
 import Logos from "./(components)/Logos/Logos";
 import Navbar from "./(components)/Navbar/Navbar";
@@ -12,6 +13,7 @@ export default function Home() {
       <Logos />
       <Service1 />
       <Service2 />
+      <Alumni />
 
 
 
