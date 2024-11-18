@@ -1,5 +1,6 @@
 import Alumni from "./(components)/Alumni/Alumni";
 import Banner from "./(components)/Banner/Banner";
+import Founders from "./(components)/Founders/Founders";
 import Logos from "./(components)/Logos/Logos";
 import Navbar from "./(components)/Navbar/Navbar";
 import Service1 from "./(components)/Service/Service1";
@@ -14,6 +15,7 @@ export default function Home() {
       <Service1 />
       <Service2 />
       <Alumni />
+      <Founders />
 
 
 
